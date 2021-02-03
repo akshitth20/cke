@@ -1,3 +1,4 @@
+/*pp002: Write a program to input a number and check it to be even or odd using switch statement.*/
 #include<stdio.h>
 void main()
 {
@@ -10,3 +11,9 @@ void main()
     default :printf("No is odd");
     }
 }
+/*output
+enter a number7
+No is odd
+enter a number10
+No is even
+*/
